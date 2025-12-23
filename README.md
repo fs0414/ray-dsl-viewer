@@ -28,10 +28,23 @@ Preview Markdown and Mermaid diagrams instantly from your clipboard or files.
 
 ## Usage
 
-1. Open the extension in Raycast
-2. Select content type (Markdown or Mermaid) - auto-detected when pasting
-3. Enter or paste your content
-4. Press Enter to preview
+### 1. Enter your content
+
+Select content type and enter Markdown or Mermaid code. You can also paste from clipboard with `Cmd+Shift+V` (auto-detects content type).
+
+![Input Form](metadata/ray-dsl-viewer/001-form.png)
+
+### 2. Preview
+
+Press Enter to preview your content.
+
+**Markdown Preview**
+
+![Markdown Preview](metadata/ray-dsl-viewer/002-preview-markdown.png)
+
+**Mermaid Preview**
+
+![Mermaid Preview](metadata/ray-dsl-viewer/003-preview-mermaid.png)
 
 ### Keyboard Shortcuts
 
