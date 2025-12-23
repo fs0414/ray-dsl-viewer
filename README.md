@@ -32,7 +32,7 @@ Preview Markdown and Mermaid diagrams instantly from your clipboard or files.
 
 Select content type and enter Markdown or Mermaid code. You can also paste from clipboard with `Cmd+Shift+V` (auto-detects content type).
 
-![Input Form](metadata/003-preview-mermaid.png)
+![Input Form](metadata/001-form.png)
 
 ### 2. Preview
 
@@ -40,11 +40,11 @@ Press Enter to preview your content.
 
 **Markdown Preview**
 
-![Markdown Preview](metadata/001-form.png)
+![Markdown Preview](metadata/002-preview-markdown.png)
 
 **Mermaid Preview**
 
-![Mermaid Preview](metadata/002-preview-markdown.png)
+![Mermaid Preview](metadata/003-preview-mermaid.png)
 
 ### Keyboard Shortcuts
 
